@@ -1,0 +1,11 @@
+C:\Users\ARGE4-1\source\repos\AmazonBot\AmazonBot\bin\Debug\AmazonBot.exe.config
+C:\Users\ARGE4-1\source\repos\AmazonBot\AmazonBot\bin\Debug\AmazonBot.exe
+C:\Users\ARGE4-1\source\repos\AmazonBot\AmazonBot\bin\Debug\AmazonBot.pdb
+C:\Users\ARGE4-1\source\repos\AmazonBot\AmazonBot\bin\Debug\HtmlAgilityPack.dll
+C:\Users\ARGE4-1\source\repos\AmazonBot\AmazonBot\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\ARGE4-1\source\repos\AmazonBot\AmazonBot\bin\Debug\HtmlAgilityPack.xml
+C:\Users\ARGE4-1\source\repos\AmazonBot\AmazonBot\obj\Debug\AmazonBot.csproj.CoreCompileInputs.cache
+C:\Users\ARGE4-1\source\repos\AmazonBot\AmazonBot\obj\Debug\AmazonBot.csproj.CopyComplete
+C:\Users\ARGE4-1\source\repos\AmazonBot\AmazonBot\obj\Debug\AmazonBot.exe
+C:\Users\ARGE4-1\source\repos\AmazonBot\AmazonBot\obj\Debug\AmazonBot.pdb
+C:\Users\ARGE4-1\source\repos\AmazonBot\AmazonBot\obj\Debug\AmazonBot.csprojResolveAssemblyReference.cache
